@@ -1,0 +1,13 @@
+Git and Github
+Used to share code,test cases,test script
+Git : Local Repository
+
+Github : Global repository
+Operations of Github
+1.push : process of sending code from Ecclipse(LR) to Github(GR).It is done frequently.
+2.pull : Used to take updated data.Process of sending updated data from Github(GR) to Ecciplse(LR).It is done frequently.
+3.clone: process of taking complete data from github (GR) account to our local system/repository Ecclipse.
+Clonnig is done only once while starting with project.
+
+Url to be shared to TL : 
+https://github.com/Kshitija160494/actitime13.git
